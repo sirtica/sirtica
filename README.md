@@ -26,28 +26,18 @@ After 12 years of experience in Oil & Gas sector (Planning, Scheduling & Refiner
 
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=black)]()
-[![Azure Machine Learning](https://img.shields.io/badge/Azure%20Machine%20Learning-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=black)]()
-
+[![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=black)]()
 </br>
-[![Aspen Technology](https://img.shields.io/badge/Aspen%20Technology-%2338BEBE.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNjAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMTYwIj48cGF0aCBkPSJNMzMuNjY4IDE4MC4zMjZMMjEuNjY4IDUxLjUxM0MxNC4yMjggNTEuNjY4IDUuNTM3IDQ4LjM4NCAxNi4yNjggNDguMzg0YzYuNjQyIDAgMTAuMzQzLTQuNTQ2IDEwLjM0My0xMC4zNDNMMTU3LjUxMyAyMC40NTZDMTkyLjMwNyAyMC40NTYgMTY2LjQ2NiAxOC4zMjYgMTM0LjY2OCAxOC4zMjZjLTMuOTc5IDAtNy43NjQtMi42MDctNy43NjQtNy43NjRzLTIuNjA3IDcuNzY0LTcuNzY0IDcuNzY0czcuNjA3IDIuNjA3IDcuNjA3IDcuNjA3YzAgMy45NzgtMi42MDcgNy43NjQtNy43NjQgNy43NjRzNy42MDcgMi42MDcgNy42MDcgNy42MDdDMzYuMzg5IDMwLjAwNiAzMy4xODIgMzAuNTk0IDMzLjY2OCAxMC4zNDNjMy45NzgtMi42MDcgNy43NjQtNy43NjQgNy43NjQgMC0zLjk3OC0yLjYwNy03Ljc2NC03Ljc2NHMtMi42MDctNy43NjQtNy43NjctNy43NjRjLTIuMDAyIDAtMy41MjggMi4zMTUtMy41MjggMy41MjhTMzMuNjY4IDE4MC4zMjYgMzMuNjY4IDE4MC4zMjZ6Ii8+PC9zdmc+)](https://www.aspentech.com/)
+[![Aspen Technology](https://raw.githubusercontent.com/sirtica/sirtica/main/AZPN.svg)]()
 </br>
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-%235C2D91.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Excel-%237DB700.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&labelColor=101010)]()
 [![SharePoint](https://img.shields.io/badge/SharePoint-%23182829.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white&labelColor=101010)]()
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%236DB33F.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&labelColor=101010)]()
+</br>
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
+
 
 ## Encuéntrame en:
 
