@@ -31,8 +31,3 @@ After 12 years of experience in Oil & Gas sector (Planning, Scheduling & Refiner
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Toni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sirtica)
-
-
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
