@@ -1,12 +1,7 @@
-### Hi there 👋
+# ![](https://raw.githubusercontent.com/sirtica/sirtica/master/Panoramix.jpg) Hello, my name is Toni 👋
+### Chemical Engineer & Cityzen Data Scientist
 
-<!--
-**sirtica/sirtica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
-
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/sirtica](https://raw.githubusercontent.com/sirtica/sirtica/master/puzz.jpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -15,25 +10,33 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Since I was a child, I have always been passionate about Sci Fi. I imagined a future similar to that described by great authors such as Arthur C. Clarke, etc.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+Living the speed at which events unfold, in addition with new industrial and digital challenges, I am definitely sure that those futures will arrive sooner than expected, due to technological advances that we will be able to see during our existence.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+In order to help, and at the same time to enjoy with these new challenges, I have tried to ensure that my academic experience and my professional career were always linked to continuous learning in the areas of Energy and New Technologies. I enjoy starting new projects, both working and learning.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+After 12 years of experience in Oil & Gas sector (Planning, Scheduling & Refinery Operations), I am currently combining my daily work with training and learning in new challenges as: Computer Science, Data analytics and Bussiness Intelligence, Cloud Computing, Machine and DEep Learning.
 
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+“Self-education is, I firmly believe, the only kind of education there is.”
+
+― Isaac Asimov
+
+## Tecnologies:
+
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=black)]()
+[![Azure Machine Learning](https://img.shields.io/badge/Azure%20Machine%20Learning-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=black)]()
+
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Aspen Technology](https://img.shields.io/badge/Aspen%20Technology-%2338BEBE.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNjAiIHdpZHRoPSIxNjAiIGhlaWdodD0iMTYwIj48cGF0aCBkPSJNMzMuNjY4IDE4MC4zMjZMMjEuNjY4IDUxLjUxM0MxNC4yMjggNTEuNjY4IDUuNTM3IDQ4LjM4NCAxNi4yNjggNDguMzg0YzYuNjQyIDAgMTAuMzQzLTQuNTQ2IDEwLjM0My0xMC4zNDNMMTU3LjUxMyAyMC40NTZDMTkyLjMwNyAyMC40NTYgMTY2LjQ2NiAxOC4zMjYgMTM0LjY2OCAxOC4zMjZjLTMuOTc5IDAtNy43NjQtMi42MDctNy43NjQtNy43NjRzLTIuNjA3IDcuNzY0LTcuNzY0IDcuNzY0czcuNjA3IDIuNjA3IDcuNjA3IDcuNjA3YzAgMy45NzgtMi42MDcgNy43NjQtNy43NjQgNy43NjRzNy42MDcgMi42MDcgNy42MDcgNy42MDdDMzYuMzg5IDMwLjAwNiAzMy4xODIgMzAuNTk0IDMzLjY2OCAxMC4zNDNjMy45NzgtMi42MDcgNy43NjQtNy43NjQgNy43NjQgMC0zLjk3OC0yLjYwNy03Ljc2NC03Ljc2NHMtMi42MDctNy43NjQtNy43NjctNy43NjRjLTIuMDAyIDAtMy41MjggMi4zMTUtMy41MjggMy41MjhTMzMuNjY4IDE4MC4zMjYgMzMuNjY4IDE4MC4zMjZ6Ii8+PC9zdmc+)](https://www.aspentech.com/)
 </br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-%235C2D91.svg?style=for-the-badge&logo=power-automate&logoColor=white&labelColor=101010)]()
+[![Excel](https://img.shields.io/badge/Excel-%237DB700.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&labelColor=101010)]()
+[![SharePoint](https://img.shields.io/badge/SharePoint-%23182829.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white&labelColor=101010)]()
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%236DB33F.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&labelColor=101010)]()
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
